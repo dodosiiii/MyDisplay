@@ -1,0 +1,2 @@
+C:\Users\dodo\Desktop\ecran partager\Server\DisplayDriver\IddSample\x64\Debug\IddSampleDriver.dll.lastcodeanalysissucceeded
+C:\Users\dodo\Desktop\ecran partager\Server\DisplayDriver\IddSample\IddSampleDriver\x64\Debug\NativeCodeAnalysis.read.1.tlog
